@@ -2,7 +2,7 @@
   <h3>Gustave Dore's</h3>
   <h4>Illustrations for</h4>
   <h1>Inferno</h1>
-  ![vectorized](./assets/vectorized.svg)
+  <img src="./assets/vectorized.svg">
   <i>In glorious grayscale</i>
 </div>
 
