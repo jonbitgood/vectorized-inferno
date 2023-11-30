@@ -1,10 +1,10 @@
-<div style='text-align: center;'>
-  <h3>Gustave Dore's</h3>
-  <h4>Illustrations for</h4>
-  <h1>Inferno</h1>
-  <img src="./assets/vectorized.svg">
-  <i>In glorious grayscale</i>
-</div>
+  <h3 align="center">Gustave Dore's</h3>
+  <h4 align="center">Illustrations for</h4>
+  <h1 align="center">Dante's Inferno</h1>
+  <img align="center" src="./assets/vectorized.svg">
+  <h6 align="center">In glorious grayscale</h6>
+
+#### About
 
 High quality scans sourced from [archive.org](https://archive.org/details/GustaveDoreIllustrationsForTheDivineComedyByDanteAlighieriHQ) via [Gallica.bnf.fr](https://gallica.bnf.fr/).
 Cropped to a 4:3 or a 3:4 aspect ratio, vectorized, minified, and are released here into the public domain again.
